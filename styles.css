@@ -1,6 +1,5 @@
 body {
   display: flex;
-  flex-direction: column;
   /* justify-content: center; */
   /* align-items: center; */
   /* height: 100vh; */
@@ -9,11 +8,5 @@ body {
 
 .welcome-message {
   text-align: center;
-  color: green;
   text-transform: capitalize;
-  border: thick double #323232;
-}
-
-form {
-  border: solid red;
 }
